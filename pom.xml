@@ -49,7 +49,7 @@
         <junit.version>5.9.1</junit.version>
         <mockito.version>4.9.0</mockito.version>
         <okhttp3.mockwebserver.version>4.10.0</okhttp3.mockwebserver.version>
-        <testcontainers.version>1.17.5</testcontainers.version>
+        <testcontainers.version>1.18.3</testcontainers.version>
 
         <!-- Frontend dependency versions -->
         <node.version>v16.15.0</node.version>
